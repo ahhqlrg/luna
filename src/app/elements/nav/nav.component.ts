@@ -95,15 +95,15 @@ export class ElementNavComponent implements OnInit {
         break;
       }
       case 'Website': {
-        window.open('http://www.jumpserver.org');
+        window.open('https://github.com/ahhqlrg');
         break;
       }
       case 'Document': {
-        window.open('http://docs.jumpserver.org/');
+        window.open('https://github.com/ahhqlrg');
         break;
       }
       case 'Support': {
-        window.open('https://market.aliyun.com/products/53690006/cmgj026011.html?spm=5176.730005.0.0.cY2io1');
+        window.open('https://github.com/ahhqlrg');
         break;
       }
       case 'SetResolution': {
